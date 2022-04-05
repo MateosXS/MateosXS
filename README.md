@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MateosXS
-- 👀 I’m interested in Digital Art and Yoga practise.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
